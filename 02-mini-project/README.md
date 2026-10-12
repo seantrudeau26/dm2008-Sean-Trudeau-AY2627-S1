@@ -15,7 +15,8 @@ I built a Harry Potter version of Flappy Bird, incorporating similar game logic.
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
+![Start Screen](readme-assets/ss1.png)
+[Gameplay](readme-assets/ss2.png)
 
 <!-- Drop a screenshot or GIF of your finished project.
      Save it to a readme-assets/ folder inside this project folder.
