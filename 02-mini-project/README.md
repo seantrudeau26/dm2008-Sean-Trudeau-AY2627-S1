@@ -1,10 +1,12 @@
-# Mini Project — Title
+# Mini Project — Flappy Snitch: Flappy Bird Remix
 
-<!-- Replace "Title" with the name of your project, e.g. "Mini Project — Pong Remix" -->
+
 
 ---
 
 ### The Project
+
+I built a Harry Potter version of Flappy Bird, incorporating similar game logic. I pushed past the scaffold by implementing a start screen, end screen, and features to make the game aesthetically pleasing. 
 
 <!-- What did you build and what makes it yours? A few sentences is enough.
      What did you change, add, or push beyond the scaffold? -->
@@ -28,12 +30,8 @@
 
 ### ✍️ Reflection
 
-<!-- 200–300 words on your process. Write freely — this isn't an essay.
-     Some prompts to get you started:
-     — What did you set out to make, and how did the result compare?
-     — What inputs does your sketch respond to, and how did you approach that?
-     — What was your biggest challenge, and how did you work through it?
-     — What would you push further if you had more time? -->
+I chose to create the Flappy Bird game because my cousin used to play it with me when I was in second grade. I missed it and instantly knew I would pick this choice when I saw it as an option. The logic I used was similar to the real game: do not let the bird hit the pipes. If the pipes were hit, the game would end. The bird, or snitch in my game, is falling unless the spacebar is hit, at which point it would have a positive y velocity momentarily. The pipes’ height would be arbitrary, and the bird needs to traverse between them. When the bird hits a pipe, the “gameover” game mode is triggered, and the score is recorded. The score is the number of pipes successfully passed. The score is shown in the top left during the game, and when the game-over screen is shown, both the score and the high score are shown in the middle. After figuring out the code and successfully implementing my desired game logic, I wanted to make my game cooler. I love the Harry Potter series and wanted to make my game similar to Quidditch. Week 6 helped me learn how to load media, which helped me reach this goal. The sound effects and images made it seem like a more realistic game! Throughout the process, I encountered a few challenges. First, I mixed up “=” and “==.” I now know that “==” checks whether something is equal to something else, and “=” assigns a value to a variable. Another challenge was identifying errors. At one point, my code was messy, and it was hard to identify where the error was occurring. After tidying up my code, it became easier. Lastly, I forgot about the required videos and needed to screen-record at the end. In the future, I will make this a priority. Overall, I learned a lot about coding in this project and had a lot of fun creating something I am proud of!
+
 
 ---
 
