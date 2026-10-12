@@ -16,13 +16,13 @@ I built a Harry Potter version of Flappy Bird, incorporating similar game logic.
 ### Output
 
 ![Start Screen](readme-assets/ss1.png)
-[Gameplay](readme-assets/ss2.png)
+![Gameplay](readme-assets/ss2.png)
 
 <!-- Drop a screenshot or GIF of your finished project.
      Save it to a readme-assets/ folder inside this project folder.
      Got more than one good screenshot? Add them. -->
 
-[Watch Online](https://your-link-here)
+<!-- [Watch Online](https://your-link-here) -->
 
 <!-- Replace the link above with a URL to a screen recording or video of your project.
      ⚠️ Make sure the file or page is set to public before submitting. -->
