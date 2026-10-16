@@ -11,7 +11,7 @@
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
 | `1a`     | I created a visual of cookies using a class and array. |
-| `1b`     | I created a very cool visual that changed with time through the usage of a class|
+| `1b`     | I created a very cool visual that changed with time through the usage of a class.|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
