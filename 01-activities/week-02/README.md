@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 2 — Control Flows and Interactivity
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,23 +10,25 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | I made a visual of a shape moving across the screen that can be manipulated by key/mouse presses. |
+| `1b`     | I made a visual of shapes that change color from a press of the mouse. |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
 ---
 
 ### This Week
+This week, I continued to enhance my coding knowledge through incorporating loops and conditionals. It made more sense with more practice. 
+
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
 ---
-
+<!-- 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/output.png) -->
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
