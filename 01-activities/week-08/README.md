@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 8 — Sensor Basics
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | Lighting up LED lights  |
+| `1b`     | Checking Sensors |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,15 @@
 
 ### This Week
 
+This week, I explored Arduino Basics and got to play around with different sensors. It was very new to me and interesting to see how coding can now become physical!
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
 ---
 
-### Output
+<!-- ### Output -->
 
-![screenshot](readme-assets/output.png)
+<!-- ![screenshot](readme-assets/output.png) -->
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
