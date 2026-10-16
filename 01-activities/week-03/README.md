@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 3 — Arrays, Functions & Transformations
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | I used code that contained an array and interactivity to create a visual. |
+| `1b`     | I created a visual with heavy emphasis on transformations.  |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,16 @@
 
 ### This Week
 
+This week built on my previous layers of ability and focused on more advanced and efficient techniques. It was hard at first, but again, with more practice I became more comfortable.
+
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
----
+<!-- ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/output.png) -->
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
