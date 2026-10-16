@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 6 — Review & Refine
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -6,23 +6,14 @@
 
 ---
 
-### Activities
-
-| Activity | What I Made                   |
-| -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
-
-<!-- Add or remove rows to match the activities for this week. -->
-
----
-
 ### This Week
+
+We covered an overview of everything from the first part of the semester, which helped me in my midterm project process. We also went over utilizing media, which enhanced my game. 
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
----
+<!-- ---
 
 ### Output
 
@@ -32,7 +23,7 @@
      Save it to a readme-assets/ folder inside this week's folder.
      Made more than one thing worth showing? Add more images. -->
 
----
+--- -->
 
 <!-- ─────────────────────────────────────────────────────
      GOING FURTHER — if you want to document more, here are some ideas:
