@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 4 — Blueprints & Objects
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,14 +10,18 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | I created a visual of cookies using a class and array. |
+| `1b`     | I created a very cool visual that changed with time through the usage of a class|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
 ---
 
 ### This Week
+
+This week's biggest takeaway was using classes; it is much more efficient when writing longer code. The in class portion was confusing, but, in my own exploration, seeing that a class is a blueprint helped me.  
+
+
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
