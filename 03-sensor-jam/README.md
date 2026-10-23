@@ -1,4 +1,4 @@
-# Sensor Jam — Title
+# Sensor Jam — Rotating Cube Visualization
 
 <!-- Replace "Title" with the name of your project, e.g. "Sensor Jam — Theremin Visualiser" -->
 
@@ -6,12 +6,14 @@
 
 ### The Project
 
+In this project, we used a sensor to impact the speed of rotation and size of a rectangle. The closer the distance, the bigger and slower the rectangle. 
+
 <!-- What does your sketch do, and what physical input drives it?
      How does the sensor data translate into something on screen?
      A few sentences is all you need. -->
 
 ---
-
+<!-- 
 ### Output
 
 ![screenshot](readme-assets/screenshot-01.png)
@@ -23,7 +25,7 @@
 [Watch Online](https://your-link-here)
 
 <!-- Replace the link above with a URL to a video of your project in action.
-     ⚠️ Make sure the file or page is set to public before submitting. -->
+     ⚠️ Make sure the file or page is set to public before submitting. --> -->
 
 ---
 

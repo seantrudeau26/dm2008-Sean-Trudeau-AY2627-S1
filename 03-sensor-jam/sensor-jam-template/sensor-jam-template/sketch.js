@@ -23,10 +23,10 @@ function draw() {
   background(0,0,0, 20);
   let angle = frameCount * speed;
   translate(windowWidth/2, windowHeight/2);
-  rotate(angle);
+  rotate(angle);  
   stroke(123,231,56);
   fill(0);
-  rect(x,0, circleSize);
+  rect(x,0, circleSize);// Gemini told us to change the width/2 and height/2 to the following because it needs to rotate from the center
  
 
   updateConnectBtn();
