@@ -6,7 +6,7 @@
 
 ### The Project
 
-In this project, we used a sensor to impact the speed of rotation and size of a rectangle. The closer the distance, the bigger and slower the rectangle. 
+In this project, we used a sensor to impact the speed of rotation and size of a rectangle. The shorter the distance, the bigger and slower the rectangle. 
 
 <!-- What does your sketch do, and what physical input drives it?
      How does the sensor data translate into something on screen?
@@ -21,8 +21,8 @@ In this project, we used a sensor to impact the speed of rotation and size of a 
 <!-- Drop a screenshot or GIF of your sketch in action.
      Got a photo of your physical setup too? Throw it in.
      Save everything to a readme-assets/ folder inside this project folder. -->
-
-[Watch Online](https://your-link-here)
+<!-- 
+[Watch Online](https://your-link-here) -->
 
 <!-- Replace the link above with a URL to a video of your project in action.
      ⚠️ Make sure the file or page is set to public before submitting. --> -->
