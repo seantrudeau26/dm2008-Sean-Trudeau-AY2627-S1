@@ -10,15 +10,15 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | I made a visual of a shape moving across the screen that can be manipulated by key/mouse presses. |
-| `1b`     | I made a visual of shapes that change color from a press of the mouse. |
+| `2a`     | I made a visual of a shape moving across the screen that can be manipulated by key/mouse presses. |
+| `2b`     | I made a visual of shapes that change color from a press of the mouse. |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
 ---
 
 ### This Week
-This week, I continued to enhance my coding knowledge through incorporating loops and conditionals. It made more sense with more practice. 
+This week, I continued to enhance my coding knowledge by incorporating loops and conditionals. It made more sense with more practice. 
 
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?

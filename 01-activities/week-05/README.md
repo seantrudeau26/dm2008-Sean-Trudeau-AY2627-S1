@@ -10,7 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | I created a visual of 2 spheres that interact when they collide. |
+| `5a`     | I created a visual of 2 spheres that interact when they collide. |
 
 
 <!-- Add or remove rows to match the activities for this week. -->
@@ -19,7 +19,7 @@
 
 ### This Week
 
-I learned about mulitple ways to depict a collision, and the interesting things I can do when they collide. This is very important for my midterm project, and experimenting with 1a helped me visualize how to create my Flappy Bird clone. 
+I learned about multiple ways to depict a collision and the interesting things I can do when they collide. This is very important for my midterm project, and experimenting with 1a helped me visualize how to create my Flappy Bird clone. 
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->

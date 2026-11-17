@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | Lighting up LED lights  |
-| `1b`     | Checking Sensors |
+| `8a`     | Lighting up LED lights  |
+| `8b`     | Checking sensors |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,7 +19,7 @@
 
 ### This Week
 
-This week, I explored Arduino Basics and got to play around with different sensors. It was very new to me and interesting to see how coding can now become physical!
+This week, I explored Arduino basics and got to play around with different sensors. It was very new to me and interesting to see how coding can now become physical!
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
 

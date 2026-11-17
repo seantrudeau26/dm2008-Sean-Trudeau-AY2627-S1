@@ -10,15 +10,15 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | We elaborated on mapping sensors, and used distance from a sensor to influence the brightness of an LED light. |
-| `1b`     | Sensor Jam. |
+| `9a`     | We elaborated on mapping sensors and used distance from a sensor to influence the brightness of an LED light. |
+| `9b`     | Sensor Jam. |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
 ---
 
 ### This Week
-I continued working on coding with sensoring output. It was interesting and working the problems with my parter helped me better understand and apply the principles. 
+I continued working on coding with sensor output. It was interesting, and working the problems with my partner helped me better understand and apply the principles. 
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->

@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | I used code that contained an array and interactivity to create a visual. |
-| `1b`     | I created a visual with heavy emphasis on transformations.  |
+| `3a`     | I used code that contained an array and interactivity to create a visual. |
+| `3b`     | I created a visual with heavy emphasis on transformations.  |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,7 +19,7 @@
 
 ### This Week
 
-This week built on my previous layers of ability and focused on more advanced and efficient techniques. It was hard at first, but again, with more practice I became more comfortable.
+This week built on my previous layers of ability and focused on more advanced and efficient techniques. It was hard at first, but again, with more practice, I became more comfortable.
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->

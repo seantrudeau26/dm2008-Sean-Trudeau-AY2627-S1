@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | I created a visual of cookies using a class and array. |
-| `1b`     | I created a very cool visual that changed with time through the usage of a class.|
+| `4a`     | I created a visual of cookies using a class and an array. |
+| `4b`     | I created a very cool visual that changed with time through the usage of a class.|
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,7 +19,7 @@
 
 ### This Week
 
-This week's biggest takeaway was using classes; it is much more efficient when writing longer code. The in class portion was confusing, but, in my own exploration, seeing that a class is a blueprint helped me.  
+This week's biggest takeaway was using classes; it is much more efficient when writing longer code. The in-class portion was confusing, but in my own exploration, seeing that a class is a blueprint helped me.  
 
 
 
