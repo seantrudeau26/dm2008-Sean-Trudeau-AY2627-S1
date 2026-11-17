@@ -2,7 +2,7 @@
 
 A p5.js sketch that receives sensor data from an Arduino over USB (Web Serial) and uses it to change a visual. Use it with the Week 9 Arduino activities.
 
-_Rename the main folder when you duplicate this for your own projects!_
+
 
 ## Setup
 
@@ -23,6 +23,6 @@ _Rename the main folder when you duplicate this for your own projects!_
 
 ## Your project notes
 
-Document your project here: what it does, what sensor you used, and how the data maps to the visual.
+We used the interaction from the sensor to influence the size of the rectangle and the speed of rotation. It was cool to see the physical domain impact code.
 
 ---
