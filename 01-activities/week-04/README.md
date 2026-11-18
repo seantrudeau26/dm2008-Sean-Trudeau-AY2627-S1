@@ -27,10 +27,10 @@ This week's biggest takeaway was using classes; it is much more efficient when w
      A few sentences is all you need — write it like a journal entry, not a report. -->
 
 ---
-
+<!-- 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](readme-assets/output.png) -->
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
