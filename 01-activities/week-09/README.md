@@ -18,7 +18,7 @@
 ---
 
 ### This Week
-I continued working on coding with sensor output. It was interesting, and working the problems with my partner helped me better understand and apply the principles. 
+I continued working on coding with sensor input/output. It was interesting, and working through the problems with my partner helped me better understand and apply the principles. 
 
 <!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
      A few sentences is all you need — write it like a journal entry, not a report. -->
