@@ -44,7 +44,7 @@ For my final project, I set out to create a 2D Batman video game. I was inspired
 
 There are various inputs. The mouse is used to change between non-playable screens. The arrow keys are used to move Batman. The spacebar is used to attack the enemies. The user input allows the enemies to be defeated, which is the goal of the game. 
 
-I organized the project in a way that made sense to me. I started with a skeleton structure from the flappy bird project; this helped me stay organized. Then I used classes for the bat and bad guys to keep the code concise and applicable in draw(). Much of the code for each gameState is similar and a little customized for each level. 
+I organized the project in a way that made sense to me. I started with a skeleton structure from the Flappy Bird project; this helped me stay organized. Then I used classes for Batman and the bad guys to keep the code concise and applicable in draw(). Much of the code for each gameState is similar and a little customized for each level. 
 
 The game evolves over time once the enemies are progressively eliminated. Once level 1 is complete, the user moves on to level 2, and then level 3. The last level is the hardest. 
 
